@@ -1,6 +1,6 @@
-# Trino Delta and Iceberg Integration with Databricks
+# Trino Iceberg Integration with Databricks
 
-This repository demonstrates how to integrate Trino with Delta Lake using Iceberg REST Catalog on Unity Catalog Databricks.
+This repository demonstrates how to integrate Trino using Iceberg REST Catalog on Unity Catalog Databricks.
 
 ## Table of Contents
 
